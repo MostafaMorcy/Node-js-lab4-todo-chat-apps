@@ -1,0 +1,11 @@
+
+
+
+[{"errno":-4058,"code":"ENOENT","syscall":"stat","path":"E:\\ITI_tasks\\Node.js\\Lab3\\toDoLsist.json","expose":false,"statusCode":404,"status":404,"request_start_time":"2021-01-24T15:40:54.565Z","request_error_time":"2021-01-24T15:40:54.572Z"},
+{"errno":-4058,"code":"ENOENT","syscall":"stat","path":"E:\\ITI_tasks\\Node.js\\Lab3\\toDoLsist.json","expose":false,"statusCode":404,"status":404,"request_start_time":"2021-01-24T15:46:00.731Z","request_error_time":"2021-01-24T15:46:00.746Z"},{"errno":-4058,"code":"ENOENT","syscall":"stat","path":"E:\\ITI_tasks\\Node.js\\Lab3\\toDoLsist.json","expose":false,"statusCode":404,"status":404,"request_start_time":"2021-01-24T15:46:15.008Z","request_error_time":"2021-01-24T15:46:15.024Z"},
+{"errno":-4058,"code":"ENOENT","syscall":"open","path":"E:\\ITI_tasks\\Node.js\\Lab3\\usesrs.json","request_start_time":"2021-01-24T15:48:54.805Z","request_error_time":"2021-01-24T15:48:54.926Z"},
+{"request_start_time":"2021-01-24T15:49:06.747Z","request_error_time":"2021-01-24T15:49:06.762Z"},{"request_start_time":"2021-01-24T15:50:46.521Z","request_error_time":"2021-01-24T15:50:46.533Z"},
+{"request_start_time":"2021-01-24T15:51:12.959Z","request_error_time":"2021-01-24T15:51:12.968Z"}]
+
+
+
